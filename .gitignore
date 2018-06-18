@@ -1,0 +1,16 @@
+venv/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+
+__pycache__.bak/
+.ideal.bak/
+.idea/pig_latin.iml
+.idea/workspace.xml
+__pycache__/consts.cpython-35.pyc
+__pycache__/utils.cpython-35.pyc
+.idea/modules.xml
+.idea/misc.xml
